@@ -1,0 +1,83 @@
+.logo {
+  margin: 40px 0 30px;
+}
+
+.logo-text{
+  color: #EDEDED;
+  font-size: 35px;
+  font-family: 'Montserrat';
+  text-align: center;
+}
+
+.menu-main {
+  list-style: none;
+  margin: 40px 0 0;
+  background: none;
+  float: left;
+  width: 350px;
+}
+.menu-main li {display: inline-block;}
+.menu-main li:after {
+  color: #EDEDED;
+  font-family: 'Montserrat';
+}
+.menu-main li:last-child:after {content: none;}
+.menu-main a {
+  text-decoration: none;
+  font-family: 'ROBOTO BOLD', sans-serif;
+  font-size: 15px;
+  margin: 0px 10px 10px;
+}
+.menu-main a, .menu-main a:visited{color: #EDEDED;}
+.menu-main a.current, .menu-main a:hover{color: #EDEDED;}
+.menu-main a:before,
+.menu-main a:after {
+  background: #EDEDED;
+}
+
+
+.line-1 {
+  font-family: 'Montserrat';
+}
+
+.line-2 {
+  font-family: 'Montserrat';
+}
+
+a {
+  text-decoration: none;
+}
+
+.main {
+  width: 1130px;
+  margin: 0 auto;
+}
+
+.block-1 {
+  color: #EDEDED;
+}
+
+.block-2 {
+  color: #EDEDED;
+}
+
+.block-3 {
+  color: #EDEDED;
+}
+
+.block-4 {
+  color: #EDEDED;
+}
+
+.block-5 {
+  color: #EDEDED;
+}
+
+.block-6 {
+  color: #EDEDED;
+}
+
+.block-7 {
+  color: #EDEDED;
+}
+ 
